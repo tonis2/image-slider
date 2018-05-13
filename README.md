@@ -23,4 +23,4 @@ Result looks like this
 ![Alt Text](./slider.gif)
 
 
-[Live Demo](https://revillweb.github.io/img-2/)
+[Live Demo](https://tonis2.github.io/image-slider)
